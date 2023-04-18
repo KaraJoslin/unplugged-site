@@ -267,7 +267,7 @@ footer .copyright {
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
-
+  background-color: #333;
 }
 
 .hero-area h1 {
@@ -380,7 +380,7 @@ About Page
   flex-flow: row wrap;
   }
 
-.map figure {
+.map-container figure {
   width: 100%;
   height: 0; 
   padding-bottom: 125%; 
@@ -388,7 +388,7 @@ About Page
   position: relative;
 }
 
-.map iframe {
+.map-container iframe {
   width: 100%;
   height: 100%;
   position: absolute; 
