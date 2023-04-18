@@ -694,6 +694,10 @@ FAQ Page
   width: 45%;
 }
 
+.map-container figure {
+  padding-bottom: 45.5%;
+}
+
 .contact-section .content-wrapper h2 {
   width: 80%;
 }
@@ -828,6 +832,10 @@ FAQ Page
 
   .contact-content h4 {
     font-size: 1.875em;
+  }
+
+  .map-container figure {
+    padding-bottom: 37.5%;
   }
 
   /* ==========================================================================
